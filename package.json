@@ -3,8 +3,9 @@
   "version": "0.0.1",
   "keywords": [
     "hyper",
-    "vintage"
+    "vintage",
+    "retro"
   ],
-  "description": "Vintage style terminal for Hyper",
+  "description": "Vintage/retro style terminal theme for Hyper",
   "dependencies": {}
 }
