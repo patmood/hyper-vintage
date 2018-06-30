@@ -1,11 +1,17 @@
 {
   "name": "hyper-vintage",
-  "version": "0.0.1",
+  "description": "Vintage/retro style terminal theme for Hyper",
+  "version": "1.0.0",
   "keywords": [
     "hyper",
     "vintage",
     "retro"
   ],
-  "description": "Vintage/retro style terminal theme for Hyper",
+  "author": "Patrick Moody",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patmood/hyper-vintage.git"
+  },
+  "main": "index.js",
   "dependencies": {}
 }

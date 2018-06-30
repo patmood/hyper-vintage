@@ -1,7 +1,7 @@
 # hyper-vintage
 
-Vintage terminal style for [hyper](https://hyper.is/).
+Vintage/retro terminal style for [hyper](https://hyper.is/).
 
 ## How to use
 
-Add `hyper-vintage` to `plugins` in `~/.hyper.js`.
+Run `hyper i hyper-vintage` in the Hyper terminal, or add `hyper-vintage` to `plugins` in `~/.hyper.js`.
