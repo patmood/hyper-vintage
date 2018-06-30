@@ -1,0 +1,10 @@
+{
+  "name": "hyper-vintage",
+  "version": "0.0.1",
+  "keywords": [
+    "hyper",
+    "vintage"
+  ],
+  "description": "Vintage style terminal for Hyper",
+  "dependencies": {}
+}
