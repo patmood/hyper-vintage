@@ -25,6 +25,7 @@ exports.decorateConfig = config => {
         background: linear-gradient(135deg, rgba(149,149,149,0.5) 0%,rgba(13,13,13,0.55) 19%,rgba(1,1,1,0.64) 50%,rgba(10,10,10,0.69) 69%,rgba(51,51,51,0.73) 84%,rgba(22,22,22,0.76) 93%,rgba(27,27,27,0.78) 100%);
         border-radius: 20px;
         opacity: .5;
+        pointer-events: none;
       }
 
       .terms_terms:after {
@@ -55,6 +56,7 @@ exports.decorateConfig = config => {
         width: 5px;
         height: 5px;
         opacity: 0.8;
+        pointer-events: none;
       }
 
       .term_wrapper {
@@ -101,6 +103,7 @@ exports.decorateConfig = config => {
         border-radius: 20px;
         opacity: .1;
         z-index: 11;
+        pointer-events: none;
       }
     `,
   })
